@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta name="description" content="When studying Animal Science, students, with assistance from faculty advisors, develop individualized programs that lead to rewarding careers in a wide variety of occupations. These programs apply to farm, laboratory, zoos and companion animals; their interaction with human society; and the contribution of animal products, such as milk and meat, to the world food supply. We provide the opportunity to obtain a meaningful Bachelor of Science degree that will serve the individual well in the future." />
+<link rel="canonical" href="https://www.uvm.edu/cals/asci" />
+<link rel="shortlink" href="https://www.uvm.edu/node/222903" />
+<meta property="og:type" content="university" />
+<meta property="og:url" content="https://www.uvm.edu/cals/asci" />
+<meta property="og:title" content="Department of Animal and Veterinary Sciences" />
+<meta property="og:image:type" content="image/jpeg" />
+  <title>Department of Animal and Veterinary Sciences | Department of Animal and Veterinary Sciences | The University of Vermont</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="cleartype" content="on">
+
+  <script type="text/javascript" src="//www.uvm.edu/it/software/dart/dart_indicator.js"></script>
+
+  <style>
+@import url("https://www.uvm.edu/modules/system/system.base.css?p3oaa7");
+</style>
+<style>
+@import url("https://www.uvm.edu/sites/all/modules/contrib/date/date_api/date.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/contrib/fences/field.css?p3oaa7");
+@import url("https://www.uvm.edu/modules/node/node.css?p3oaa7");
+@import url("https://www.uvm.edu/modules/search/search.css?p3oaa7");
+@import url("https://www.uvm.edu/modules/user/user.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/custom/uvm_special_menu_items/css/buttons.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/custom/uvm_special_menu_items/css/menus.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/contrib/views/css/views.css?p3oaa7");
+</style>
+<style>
+@import url("https://www.uvm.edu/sites/all/modules/custom/ctools/css/ctools.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/contrib/panels/css/panels.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/modules/contrib/og_menu/og_menu.css?p3oaa7");
+</style>
+<style>
+@import url("https://www.uvm.edu/sites/all/themes/uvmbase/css/styles.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/themes/uvmsubsites/css/templatestyles.css?p3oaa7");
+</style>
+<style media="print">
+@import url("https://www.uvm.edu/sites/all/themes/uvmbase/css/print.css?p3oaa7");
+</style>
+
+<!--[if lte IE 8]>
+<style>
+@import url("https://www.uvm.edu/sites/all/themes/uvmbase/css/ie8.css?p3oaa7");
+</style>
+<![endif]-->
+
+<!--[if lte IE 9]>
+<style>
+@import url("https://www.uvm.edu/sites/all/themes/uvmbase/css/ie9.css?p3oaa7");
+@import url("https://www.uvm.edu/sites/all/themes/uvmsubsites/css/ieall.css?p3oaa7");
+</style>
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald:300,regular|Playfair+Display:regular|Roboto:300,500,regular&amp;subset=latin,latin-ext" media="all" />
+<style>
+@import url("https://www.uvm.edu/sites/default/files/fontyourface/local_fonts/socialmedia-normal-normal/stylesheet.css?p3oaa7");
+</style>
+  <script src="https://www.uvm.edu/sites/default/files/google_tag/google_tag.script.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2"></script>
+<script src="https://www.uvm.edu/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.uvm.edu/misc/drupal.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/modules/custom/responsive_slides/js/makeSlide.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/modules/custom/uvm_special_menu_items/js/toggleMenus.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/script4.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/gsc.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/swipe3.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/modernizr.custom.min.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/uvm_directory_find_people.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/newsFeatureImage.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/circles.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/header_boxes.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmbase/js/atoz_hash_rewrite.js?p3oaa7"></script>
+<script src="https://www.uvm.edu/sites/all/themes/uvmsubsites/js/script.js?p3oaa7"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"uvmsubsites","theme_token":"_gfCmCmUhI5dAlpjX0o3HRibCH6Q71BpXVP01b4Hs5A","js":{"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom\/responsive_slides\/js\/makeSlide.js":1,"sites\/all\/modules\/custom\/uvm_special_menu_items\/js\/toggleMenus.js":1,"sites\/all\/themes\/uvmbase\/js\/script4.js":1,"sites\/all\/themes\/uvmbase\/js\/gsc.js":1,"sites\/all\/themes\/uvmbase\/js\/swipe3.js":1,"sites\/all\/themes\/uvmbase\/js\/modernizr.custom.min.js":1,"sites\/all\/themes\/uvmbase\/js\/uvm_directory_find_people.js":1,"sites\/all\/themes\/uvmbase\/js\/newsFeatureImage.js":1,"sites\/all\/themes\/uvmbase\/js\/circles.js":1,"sites\/all\/themes\/uvmbase\/js\/header_boxes.js":1,"sites\/all\/themes\/uvmbase\/js\/atoz_hash_rewrite.js":1,"sites\/all\/themes\/uvmsubsites\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/custom\/uvm_special_menu_items\/css\/buttons.css":1,"sites\/all\/modules\/custom\/uvm_special_menu_items\/css\/menus.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/og_menu\/og_menu.css":1,"sites\/all\/themes\/uvmbase\/system.menus.css":1,"sites\/all\/themes\/uvmbase\/system.messages.css":1,"sites\/all\/themes\/uvmbase\/system.theme.css":1,"sites\/all\/themes\/uvmbase\/css\/styles.css":1,"sites\/all\/themes\/uvmbase\/css\/uvm_directory_find_people.css":1,"sites\/all\/themes\/uvmsubsites\/css\/templatestyles.css":1,"sites\/all\/themes\/uvmbase\/css\/print.css":1,"sites\/all\/themes\/uvmbase\/css\/ie8.css":1,"sites\/all\/themes\/uvmbase\/css\/ie9.css":1,"sites\/all\/themes\/uvmsubsites\/css\/ieall.css":1,"https:\/\/fonts.googleapis.com\/css?family=Oswald:300,regular|Playfair+Display:regular|Roboto:300,500,regular\u0026subset=latin,latin-ext":1,"public:\/\/fontyourface\/local_fonts\/socialmedia-normal-normal\/stylesheet.css":1}},"ogContext":{"groupType":"node","gid":"220216"}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  <script type="text/javascript">
+  document.documentElement.className = 'js';
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-222903 node-type-unit-website og-context og-context-node og-context-node-220216 section-cals page-panels no-js" id="theme-uvmsubsites" >
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      <div class="region region-page-top">
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MXGB7Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  </div>
+  <div id="page"  class="cals">
+<header class="header" id="header" role="banner">
+
+
+
+<nav id="topbar_wrapper" role="navigation">
+<div id="mobiletools">
+<noscript>
+<img src="/sites/all/themes/uvmbase/images/uvmlogo2017.svg" width="200" alt="University of Vermont" />
+<p>Please turn on Javascript for added functionality</p>
+
+</noscript>
+</div>
+<ul id="topnav" class="subsite_mainframe">
+	<li class="apply"><a href="http://www.uvm.edu/admissions/">apply</a></li>
+	<li id="uvm-search"><button class="collapsed">Search</button></li>
+<li class="myuvm"><a href="https://myuvm.uvm.edu/" title="Log into the myUVM portal">myUVM</a></li>
+</ul>
+<div class="menu" id="toolswrapper">
+<div id="search">
+<div id="gcsepeople">
+	<h2>Search Website</h2>
+<gcse:searchbox-only></gcse:searchbox-only>
+	<h2>Search Directory</h2>
+	<div id="people">
+	<table class="people-search-box" cellspacing="0" cellpadding="0">
+		<tbody>
+			<tr>
+				<td class="people-input">
+					<input id="" class="people-input" type="text" lang="en" autocomplete="off" size="10" name="search" title="search" x-webkit-speech="" x-webkit-grammar="builtin:search" dir="ltr" spellcheck="false" style="outline: medium none;">
+				</td>
+				<td class="people-search-button">
+					<input class="people-search-button" type="button" value="Search" title="search">
+				</td>
+				<td class="people-clear-button">
+					<div class="people-clear-button" title="clear results">&nbsp;</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	</div><!-- close #people -->
+</div><!-- close # gcsepeople -->
+	<div id="az">
+	<h2>A to Z</h2>
+	<ul id="azlist" class="alpha">
+
+	<li id="A"><a href="/a_to_z?A">A</a></li>
+        <li id="B"><a href="/a_to_z?B">B</a></li>
+        <li id="C"><a href="/a_to_z?C">C</a></li>
+        <li id="D"><a href="/a_to_z?D">D</a></li>
+        <li id="E"><a href="/a_to_z?E">E</a></li>
+        <li id="F"><a href="/a_to_z?F">F</a></li>
+        <li id="G"><a href="/a_to_z?G">G</a></li>
+        <li id="H"><a href="/a_to_z?H">H</a></li>
+        <li id="I"><a href="/a_to_z?I">I</a></li>
+        <li id="J"><a href="/a_to_z?J">J</a></li>
+        <li id="K"><a href="/a_to_z?K">K</a></li>
+        <li id="L"><a href="/a_to_z?L">L</a></li>
+        <li id="M"><a href="/a_to_z?M">M</a></li>
+        <li id="N"><a href="/a_to_z?N">N</a></li>
+        <li id="O"><a href="/a_to_z?O">O</a></li>
+        <li id="P"><a href="/a_to_z?P">P</a></li>
+        <li id="Q"><a href="/a_to_z?Q">Q</a></li>
+        <li id="R"><a href="/a_to_z?R">R</a></li>
+        <li id="S"><a href="/a_to_z?S">S</a></li>
+        <li id="T"><a href="/a_to_z?T">T</a></li>
+        <li id="U"><a href="/a_to_z?U">U</a></li>
+        <li id="V"><a href="/a_to_z?V">V</a></li>
+        <li id="W"><a href="/a_to_z?W">W</a></li>
+        <li id="X"><a href="/a_to_z?X">X</a></li>
+        <li id="Y"><a href="/a_to_z?Y">Y</a></li>
+        <li id="Z"><a href="/a_to_z?Z">Z</a></li>
+</ul>
+	</div> <!-- close# az -->
+
+</div><!-- close #search -->
+</div> <!-- close #toolswrapper -->
+</nav>
+
+
+    
+
+    
+  </header>
+        
+<div id="logo_wrapper_withparentbanner">
+
+<div id="logo_container">
+  <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img class="header__logo-image"  src="/sites/all/themes/uvmbase/images/uvmlogo2017.svg" alt="University of Vermont" />
+</a>
+</div>
+</div>
+  <div id="main">
+  <div class="region region-subnav">
+    <div id="block-og-menu-og-multi-menu-block" class="block block-og-menu first last odd">
+
+        <h2 class="block__title block-title"><a href="/uvmwebgroups/department_animal_and_veterinary_sciences">Department of Animal and Veterinary Sciences</a></h2>
+    
+  <ul class="menu"><li class="menu__item is-leaf is-active-trail first leaf active-trail"><a href="/cals/asci" class="menu__link is-active-trail active-trail active">Department of Animal and Veterinary Sciences</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/about-animal-science" class="menu__link">About Our Program</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/undergraduate_program_bs_animal_and_veterinary_sciences" class="menu__link">Undergraduate Programs</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/graduate-program" title="" class="menu__link">Graduate Programs</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/courses" title="" class="menu__link">Courses</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/advising" class="menu__link">Advising</a></li>
+<li class="menu__item is-expanded expanded"><button title="" class="menu__link collapsed">Internships and Careers </button><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/cals/asci/internships" class="menu__link">Internships</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/cals/asci/careers" class="menu__link">Careers</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><button title="" class="menu__link collapsed">Clubs and Programs</button><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/cals/asci/undergraduate_program_bs_animal_and_veterinary_sciences/cooperative_real_education" class="menu__link">C.R.E.A.M.</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/equus" class="menu__link">EQUUS</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/pre-vet-club" class="menu__link">UVM Pre-Vet Club</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/uvm-dairy-club" class="menu__link">UVM  Dairy Club</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/uvm-horse-barn-co-op" class="menu__link">UVM Horse Barn Co-op</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/uvm-dressage" class="menu__link">UVM Dressage</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/uvm-equestrian-team" class="menu__link">UVM Equestrian Team</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/uvm/vtc-farms-2-2-program" class="menu__link">UVM/VTC FARMS 2 + 2 Program</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/cals/asci/other-ways-get-involved" class="menu__link">Other Ways to Get Involved</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/farms-and-facilities" class="menu__link">Farms and Facilities</a></li>
+<li class="menu__item is-expanded expanded"><button title="" class="menu__link collapsed">Faculty and Staff</button><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/cals/asci/faculty" class="menu__link">Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/adjunct-faculty" class="menu__link">Adjunct Faculty</a></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/staff" class="menu__link">Staff</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/cals/asci/emeritus" class="menu__link">Emeritus</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="/cals/asci/news-college" class="menu__link">News from the College</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/cals/asci/contact_us_8" class="menu__link">Contact Us</a></li>
+</ul>
+</div>
+  </div>
+<div id="websitecontent">
+        <div id="parentsitebanner">
+<h1 id="cals"><a href="/cals">College of <em>Agriculture and Life Sciences</em></a></h1></div>
+        <div id="unitwebsitename">
+<div class="menu_container cf">
+<a id="menu-toggle" class="anchor-link subsite_mainframe" href="#">menu</a>
+</div>
+<a href="/cals/asci"><h1> Department of <em>Animal and Veterinary Sciences</em> </h1></a>
+</div>
+
+               <h1 class="page__title title" id="page-title">Department of Animal and Veterinary Sciences</h1>
+                      <div id="content" class="column" role="main">
+                  <a id="main-content"></a>
+                        
+
+
+
+<div class="panelizer-view-mode node node-full node-unit-website node-222903 node-promoted node-promoted">
+        <div class="toprow">
+  <div class="panel-pane pane-block pane-responsive-slides-field-slideshow topbanner" >
+  
+      
+  
+  <div class="collegeSlides"><ul class="rslides_collection centered-btns centered-btns1" id="slider1"><li style='display:none; float: none; position: absolute;'  ><div class='field-top-image'><img src='https://www.uvm.edu/sites/default/files/cream_picture_web_final.jpg' alt='ASCI students walk calf across campus in Summer Term' style='width:100%;'></div><div class='field-caption '><h2>Hands-on at sun-up</h2>
+<p>C.R.E.A.M. students at UVM manage the farm operation and gain skills to apply after graduation. (<a href="https://www.uvm.edu/newsstories/news/cream_program_offers_real_education_dairy_management">Watch the CREAM video</a>.)</p>
+</div><li style='display:none; float: none; position: absolute;'  ><div class='field-top-image'><img src='https://www.uvm.edu/sites/default/files/morganhorse-finalweb2.jpg' alt='A Morgan horse being walked down the road on the farm' style='width:100%;'></div><div class='field-caption '><h2>Equine teaching and research thrive at the UVM Morgan Horse Farm</h2>
+<p><a href="https://www.uvm.edu/cals/news/historic-uvm-morgan-horse-farm-announces-new-leadership-and-new-opportunities">New leadership, student apprentices, and visitors from around the world celebrate the future of America's first breed of horse and UVM's historic Weybridge facility.</a></p>
+</div><li style='display:none; float: none; position: absolute;'  ><div class='field-top-image'><img src='https://www.uvm.edu/sites/default/files/facilities_banner.jpg' alt='' style='width:100%;'></div><div class='field-caption '><h2>Work on the farm starts before the sun comes up!</h2>
+<p>Learn more about the what it takes to make things run. (<a href="https://www.facebook.com/NEDPB/videos/10151974414382885/">Watch the "Must be the milk" video</a>.)</p>
+</div></li></ul></div>
+  
+  </div>
+</div>
+<div class="centercol">
+  <div class="panel-pane pane-entity-field pane-node-field-introduction" >
+  
+      
+  
+  
+  <div class="field-introduction">
+    <h2>What is Animal Science?</h2>
+<p>The Animal and Veterinary Sciences program deals with a range of options from basic sciences through companion and zoo animal care to farm management. Although programs are highly individualized by students working with the advisors, there are four basic concentrations: Dairy Production, Equine Science, Zoos, Exotics and Companion Animal and Pre-Veterinary/Pre-Professional Science.</p>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-body" >
+  
+      
+  
+  
+  <div class="field-body">
+    <p>When studying Animal Science, students, with assistance from faculty advisors, develop individualized programs that lead to rewarding careers in a wide variety of occupations. These programs apply to farm, laboratory, zoos and companion animals; their interaction with human society; and the contribution of animal products, such as milk and meat, to the world food supply. We provide the opportunity to obtain a meaningful <a href="/node/222950">Bachelor of Science degree</a> that will serve the individual well in the future.</p>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-interior-infoband-field-co" >
+  
+      
+  
+  
+  <div class="field-interior-infoband-field-co">
+    
+  <h2 class="field-info-band-title">
+    Why are we so proud of our program?   </h2>
+
+  <div class="field-info-band-description">
+    <h3>We Offer:</h3>
+<p><strong>Virtually unlimited internship opportunities</strong>&nbsp;coordinated by Fran Kinghorn and lab experience with our impressive research faculty.</p>
+<p>Curricular and extra-curricular activities to support <strong>career exploration and preparation.</strong></p>
+<p>Faculty and staff who value <strong>research, teaching, and advising</strong>. Each student gets a faculty advisor to help them through the course selection process and to advise them in career oppertunities.&nbsp;</p>
+<p><strong>Hands-on experience from day one</strong> at UVM through courses like Intro to Animal Science, Equus, CREAM, Lameness in Horses, and all of our Clinical Topics courses.</p>
+  </div>
+  </div>
+  <div class="field-interior-infoband-field-co">
+    
+  <h2 class="field-info-band-title">
+    Check us out in the news!   </h2>
+
+  <div class="field-info-band-description">
+    <h3>Bovine Brain Atlas</h3>
+<h3><a href="/images/25398786_2058368774190120_1374474529758928922_njpg"><img alt="Dr. McKay(Right) and Ms. Cantrell(Right) holding their calendar" class="media-element file-teaser" data-delta="7" title="" typeof="foaf:Image" src="https://www.uvm.edu/sites/default/files/styles/medium/public/media/25398786_2058368774190120_1374474529758928922_n.jpg?itok=ejaefJkS" width="220" height="172" /></a></h3>
+<p>Animal and Veterinary Science's Dr. Stephanie McKay &amp; Bonnie Cantrell hold the NeuroScience Associates (NSA) annual calendar featuring their research on creating a bovine brain atlas. Work would not be possible without support from NSALabs, &amp; many collaborators. @neuroscience associates. #neuroscience</p>
+<h3>UVM Dairy Bar</h3>
+<p><img alt="A paper cup of ice cream with the new &quot;Dairy Bar&quot; logo on it" class="imageleft" data-delta="3" data-fid="111053" data-media-element="1" src="https://www.uvm.edu/sites/default/files/styles/medium/public/media/Screen-Shot-2017-09-21-at-10.13.48-AM.png?itok=7C75Aw_3" title="" typeof="foaf:Image"> Read about it: <a href="https://uvmbored.com/2017/09/21/uvm-dairy-bar-makes-return-campus/">First Impressions: UVM Dairy Bar makes it's return to campus!</a></p>
+<p>Also see the "Across The Fence" segamant from 1/24/2018 about the Dairy Bar</p>
+<p>&nbsp;</p>
+<p class="player"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/y1nJ_PGxuao?rel=0" width="560"></iframe></p>
+  </div>
+  </div>
+  <div class="field-interior-infoband-field-co">
+    
+  <h2 class="field-info-band-title">
+    Classes and upcoming events:  </h2>
+
+  <div class="field-info-band-description">
+    <p><a href="/images/repro_flyer_-2018jpg"><img alt="Equine Repro course lisitng" class="media-element file-teaser" data-delta="5" title="" typeof="foaf:Image" src="https://www.uvm.edu/sites/default/files/styles/medium/public/media/Repro_FLYER_-2018.jpg?itok=NzncJ9Kq" width="170" height="220" /></a>&nbsp;<span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.uvm.edu/sites/default/files/media/Repro_FLYER_-2018.pdf" type="application/pdf; length=912923">ASCI 192 B Equine Repro Workshop (PDF)</a></span>&nbsp;over Spring Break&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="/images/ag_career_day_flyer_final_copyjpg"><img alt="Ag Career Day Flyer" class="media-element file-teaser" data-delta="6" title="" typeof="foaf:Image" src="https://www.uvm.edu/sites/default/files/styles/medium/public/media/Ag_Career_Day_flyer_final_copy.jpg?itok=pt9hxg41" width="170" height="220" /></a>&nbsp;Our first ever <span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="https://www.uvm.edu/sites/default/files/media/Doc1.pdf" type="application/pdf; length=370421">Agriculture Career Day (PDF)</a></span>, non 4H students RSVP to Fran Kinghorn</p>
+  </div>
+  </div>
+
+  
+  </div>
+</div>
+<div class="rightcol">
+  <div class="panel-pane pane-entity-field pane-node-field-right-sidebar-image" >
+  
+      
+  
+  
+  <div class="field-right-sidebar-image">
+    <img typeof="foaf:Image" src="https://www.uvm.edu/sites/default/files/2016_EASTER_BARN_SHARE_20_March-3160_-_Copy.jpg" width="2592" height="1728" alt="Miller Research Complex, 430-514 Spear Street, Open Daily- 2-4 p.m., Visitor Information 865-9946" />  </div>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-quicklinks" >
+  
+      
+  
+  
+<ul class="field-quicklinks">
+
+      <li>
+      <a href="https://www.uvm.edu/cals/asci/welcome-new-students">Welcome, New Students! </a>    </li>
+      <li>
+      <a href="https://www.uvm.edu/cals/asci/undergraduate_program_bs_animal_and_veterinary_sciences/cooperative_real_education">C.R.E.A.M. - Student Run Dairy Herd</a>    </li>
+      <li>
+      <a href="https://www.uvm.edu/cals/asci/uvm-horse-barn-co-op">Horse Barn Co-op - Student Run Horse Boarding</a>    </li>
+      <li>
+      <a href="https://www.uvm.edu/cals/morganhorsefarm">The Morgan Horse Farm</a>    </li>
+      <li>
+      <a href="https://www.uvm.edu/cals/asci/animal-care-and-use-training">Animal Care and Use Training</a>    </li>
+  
+</ul>
+
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-interior-open-sidebar" >
+  
+      
+  
+  
+  <div class="field-interior-open-sidebar">
+    <p class="button-green"><a href="/node/248485">Internships</a></p>
+<p class="button-green"><a href="/node/248828">Program concentrations</a></p>
+  </div>
+  <div class="field-interior-open-sidebar">
+    <div id="fb-root"></div>
+<script>
+<!--//--><![CDATA[// ><!--
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+//--><!]]>
+</script><div class="fb-page" data-href="https://www.facebook.com/UVM-Animal-Veterinary-Sciences-123795709614/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UVM-Animal-Veterinary-Sciences-123795709614/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UVM-Animal-Veterinary-Sciences-123795709614/">UVM Animal &amp; Veterinary Sciences</a></blockquote></div>  </div>
+  <div class="field-interior-open-sidebar">
+    <p>&nbsp;</p>
+<p><img alt="UVM mascot &quot;Rally Cat&quot; with a calf" class="media-element file-default" data-delta="4" title="" typeof="foaf:Image" src="https://www.uvm.edu/sites/default/files/media/Capture_3.JPG" width="389" height="685" /></p>
+  </div>
+
+  
+  </div>
+</div>
+<div class="bottomrow">
+  <div class="panel-pane pane-views pane-social-media-lists band_social_media" >
+  
+      
+  
+  <div class="view view-social-media-lists view-id-social_media_lists view-display-id-block view-dom-id-74e7c0b0bd05da7467cba2342566afde">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-link-factoid-1">        <div class="field-content"><div class="item-list"><ul><li class="first last"><a href="http://www.facebook.com/ascidept" class="icon-facebook"></a></li>
+</ul></div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+<div class="panel-pane pane-entity-field pane-node-field-band-6-links bottom_cta_links" >
+  
+      
+  
+  
+<ul class="field-band-6-links">
+
+      <li>
+      <a href="http://asci.uvm.edu/newsletter/2016/newsletter_S16.pdf" class="button-arrow">Read our most recent newsletter (PDF)</a>    </li>
+  
+</ul>
+
+  
+  </div>
+</div>
+
+</div>
+          </div>
+
+
+
+  </div>
+</div>
+
+  
+<footer id="minifooter">
+<address>
+<div class="logo">The University of Vermont</div>
+<div class="address_phone">
+    <span class="address">Burlington, VT 05405</span>
+    <span class="telephone"><a href="tel:+18026563131">(802) 656-3131</a></span>
+</div>
+<div class="link"><a href="node/183335" id="contactus">Contact UVM</a> &copy; 
+2018</div>
+<div class="clear-fix"></div>
+</address></footer>
+
+</div>
+
+  <script src="https://www.uvm.edu/sites/all/modules/contrib/addthis/addthis.js?p3oaa7"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=uvermont" async="async"></script>
+</body>
+</html>
