@@ -9,7 +9,7 @@ import requests
 import json
 
 session = requests.Session()
-data = {'username': 'zhangp', 'password': 'Edcrfv34'}
+data = {'username': '******', 'password': '*******'}
 r = session.post('http://el.origimed.com/auth', data=data)
 data_number = {'searchCategorySecondId':'256'}
 #d = session.post('http://el.origimed.com/user/course/my/new', data=data_number)
