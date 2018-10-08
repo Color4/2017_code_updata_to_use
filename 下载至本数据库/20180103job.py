@@ -11,12 +11,7 @@ import json
 session = requests.Session()
 data = {'username': '******', 'password': '*******'}
 r = session.post('http://el.origimed.com/auth', data=data)
-data_number = {'searchCategorySecondId':'256'}
-#d = session.post('http://el.origimed.com/user/course/my/new', data=data_number)
-#d = session.post('http://el.origimed.com/user/course/my')
-d = session.post('http://el.origimed.com/log/menu/c')
-#print(d.text)
-html = session.post('http://el.origimed.com/user/course/my/new?pageSize=100&from=0').text
+
 #print(html['rows'])
 print(type(html))
 mydata = json.loads(html)
